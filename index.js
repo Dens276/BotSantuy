@@ -35,17 +35,17 @@ const { ind } = require('./language')
 const apivhtear = 'Apikey kalian, kalau ada'; // APIKEY VHTEAR
 const vcard = 'BEGIN:VCARD\n'  // Jangan di ubah biar ga error
             + 'VERSION:3.0\n'  // Jangan di ubah biar ga error
-            + 'FN:Taufik - kun\n'  // Ganti jadi namamu
-            + 'ORG: Botol - LoL;\n'  // Ganti jadi namamu/Botmu
-            + 'TEL;type=CELL;type=VOICE;waid=6289675651966:+62 896-7565-1966\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
+            + 'FN:Dens - kun\n'  // Ganti jadi namamu
+            + 'ORG: Bot - Santuy;\n'  // Ganti jadi namamu/Botmu
+            + 'TEL;type=CELL;type=VOICE;waid=6282115759305:+62 821-1575-9305\n'  // Ganti jadi nomormu, tapi jangan ubah polanya
             + 'END:VCARD' // jangan di ubah
 prefix = '#'
 blocked = []   
-limitawal = '100' //terserah ganti/gk
+limitawal = '599' //terserah ganti/gk
 cr = '*BOT INI SUDAH TERVERIFIKASI*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6289675651966@s.whatsapp.net","6289675651966@s.whatsapp.net"]  //ganti menjadi nomormu
+const ownerNumber = ["6282115759305@s.whatsapp.net","6282115759305@s.whatsapp.net"]  //ganti menjadi nomormu
 /************************************/
 
        
